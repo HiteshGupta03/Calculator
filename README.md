@@ -21,7 +21,7 @@ A simple, user-friendly calculator built using Python and Tkinter. This project 
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/python-calculator.git
+(https://github.com/HiteshGupta03/Calculator.git)
 
 2. Install the required dependencies (Tkinter comes pre-installed with Python, so you usually don't need to install it separately). However, if Tkinter is not installed, you can use the following command:
    . On Ubuntu:
